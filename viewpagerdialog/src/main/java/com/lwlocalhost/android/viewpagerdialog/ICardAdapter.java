@@ -5,7 +5,7 @@ package com.lwlocalhost.android.viewpagerdialog;
  * 单个卡片内容接口
  */
 
-import android.support.v7.widget.CardView;
+import androidx.cardview.widget.CardView;
 
 public interface ICardAdapter {
 
